@@ -73,7 +73,7 @@ source "$HOME/.cargo/env"
 cd cairo
 cargo run --bin starknet-compile -- ../hello_starknet.cairo ../hello_starknet.json --replace-ids	
 ```
-Congratulations, you have compiled your contracts from Cairo to Sierra!
+祝贺，到这里你已经成功的编译了你的智能合约
 
 ## 用Cairo-lang声明合约
 ### 设置环境变量
